@@ -12,7 +12,7 @@ Cấu trúc đề :
 
 -Câu 4 : -> Đọc file chuỗi (Struct , dòng ) + các thao tác với chuỗi 
 
--->Sử dụng thư viện có sẵn trong C/C++ thoải mãi nhưng để thầy cô chiếm 10 điểm thì không nên dùng thư viện mà hãy chạy code tay thuần á <--
+-->Sử dụng thư viện có sẵn trong C/C++ thoải mãi nhưng để thầy cô chấm 10 điểm thì không nên dùng thư viện mà hãy chạy code tay thuần á <--
 
 Good luck ==> Tất cả tài liệu + đề thi đã có ở trên ==> Chúc mọi người ôn tập hiệu quả
 
